@@ -34,11 +34,11 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shakhzod0307&theme=dark&border_radius=5.0&mode=weekly&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shakhzod0307)](https://git.io/streak-stats)
 
 <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> GitHub Profile Trophy
 
-https://github-profile-trophy.vercel.app/?username=Shakhzod0307&no-bg=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhzod0307&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
