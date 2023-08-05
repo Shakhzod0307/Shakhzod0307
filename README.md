@@ -43,7 +43,8 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 Conect with Me
 ---
 
-<a href="http://t.me/shahzod_0109">Telegram  </a>
-
-
+<a href="http://t.me/shahzod_0109">[Telegram  ](https://icons8.com/icon/114954/telegram-app)</a>
+<a href="http://t.me/shahzod_0109_">[Instagram  ](httpsicons8.comicon119026instagram)</a>
+<a href="http://t.me/Shahzod0307">[Twitter  ]([https://icons8.com/icon/114954/telegram-app](https://icons8.com/icon/phOKFKYpe00C/twitterx))</a>
+<a href="http://t.me/shahzod_0109">[LinkedIn  ](https://icons8.com/icon/114954/telegram-app)</a>
 
