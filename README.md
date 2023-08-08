@@ -34,7 +34,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shakhzod0307)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shakhzod0307)](https://git.io/streak-stats)
 
 <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> GitHub Profile Trophy
 
