@@ -39,6 +39,3 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> GitHub Profile Trophy
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhzod0307&hide_progress=true)
-
-
-
