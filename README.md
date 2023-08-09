@@ -40,4 +40,6 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+🏆 Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhzod0307&hide_progress=true)
