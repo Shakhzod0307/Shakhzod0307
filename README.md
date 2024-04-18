@@ -32,7 +32,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :fire: My Stats :
+### :fire: My Status :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shakhzod0307&theme=dark)](https://git.io/streak-stats)
 
