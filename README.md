@@ -6,7 +6,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tashkent.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tashkent.
 
 - :telescope: I’m a student of INHA Universitety in Tashkent.
 
